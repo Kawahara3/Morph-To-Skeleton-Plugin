@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "MorphToSkeleton",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "Calming Current Games",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "MorphToSkeleton",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
